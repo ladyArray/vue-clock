@@ -39,7 +39,7 @@ data (){
 <style>
 .clock{
   font-family: monospace;
-  font-size: 93px;
+  font-size: 12.50vh;
   color:rgb(0, 0, 0);
   margin: 0 5% 30% 0;
 }
