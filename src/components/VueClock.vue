@@ -36,11 +36,11 @@ data (){
 </template>
 
 <style>
-@import url('http://fonts.cdnfonts.com/css/led-digital-7');
+@import url('http://fonts.cdnfonts.com/css/digital-7-mono');
 
 .clock{
-  font-family: 'LED Digital 7', monospace;
-  font-size: 13vh;
+  font-family: 'Digital-7 Mono', monospace;
+  font-size: 14.5vh;
   color:rgb(0, 0, 0);
   margin: 0 5% 30% 0;
 }
