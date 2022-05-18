@@ -23,7 +23,7 @@ body{
 }
 
 .container {
-  background-image: url('src/assets/casio.jpg');
+  background-image: url('public/casio.jpg');
   background-position: 40%;
   background-size: 75vh;
     height: 100vh;
@@ -32,9 +32,6 @@ body{
     align-items: center;
     display:flex;
 }
-
-
-
 
 </style>
 
