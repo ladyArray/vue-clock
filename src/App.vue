@@ -19,14 +19,22 @@ components: {
 
 <style>
 body{
-    background-color: black;
+  background-color: black;
 }
+
 .container {
-  display:flex;
-  height: 100vh;
-  justify-content: center;
-  align-items: center;
+  background-image: url('src/assets/casio.jpg');
+  background-position: 40%;
+  background-size: 75vh;
+    height: 100vh;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    display:flex;
 }
+
+
+
 
 </style>
 
