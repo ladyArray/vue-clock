@@ -40,9 +40,10 @@ data (){
 
 .clock{
   font-family: 'Digital-7 Mono', monospace;
-  font-size: 14.5vh;
+  font-size: 13vh;
   color:rgb(0, 0, 0);
   margin: 0 5% 30% 0;
+  position: fixed;
 }
 
 .clock:hover{
