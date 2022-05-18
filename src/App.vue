@@ -11,18 +11,22 @@ components: {
 </script>
 
 <template>
-
-<VueClock>
-
-</VueClock>
-
-
-
+  <div class="container">
+    <VueClock/>
+  </div>
 
 </template>
 
 <style>
-
+body{
+    background-color: black;
+}
+.container {
+  display:flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
 
 </style>
 
