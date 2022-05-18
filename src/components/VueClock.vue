@@ -39,7 +39,7 @@ data (){
 @import url('http://fonts.cdnfonts.com/css/led-digital-7');
 
 .clock{
-  font-family: 'LED Digital 7';
+  font-family: 'LED Digital 7', monospace;
   font-size: 13vh;
   color:rgb(0, 0, 0);
   margin: 0 5% 30% 0;
