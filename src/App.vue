@@ -23,7 +23,7 @@ body{
 }
 
 .container {
-  background-image: url('public/casio.jpg');
+  background-image: url('/casio.jpg');
   background-position: 40%;
   background-size: 75vh;
     height: 100vh;

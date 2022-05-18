@@ -33,13 +33,14 @@ data (){
   <p>{{hours}}:{{minutes}}:{{seconds}}</p>
   </div>
 
-
 </template>
 
 <style>
+@import url('http://fonts.cdnfonts.com/css/led-digital-7');
+
 .clock{
-  font-family: monospace;
-  font-size: 12.50vh;
+  font-family: 'LED Digital 7';
+  font-size: 13vh;
   color:rgb(0, 0, 0);
   margin: 0 5% 30% 0;
 }
@@ -49,4 +50,3 @@ data (){
 }
 
 </style>
-
